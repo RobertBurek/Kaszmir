@@ -20,9 +20,9 @@ public class Main {
         List<Pozycja> czystaLista = new ArrayList<Pozycja>();
 
 
-//        zamowienia.add(new Zamowienie("1",73.5,100));
-//        zamowienia.add(new Zamowienie("2",69.5,50));
-//        zamowienia.add(new Zamowienie("3",54.5,50));
+        zamowienia.add(new Zamowienie("1",73.5,100));
+        zamowienia.add(new Zamowienie("2",69.5,50));
+        zamowienia.add(new Zamowienie("3",54.5,50));
 
 //        zamowienia.add(new Zamowienie("1",54.5,50));
 //        zamowienia.add(new Zamowienie("2",69.5,50));
@@ -48,15 +48,15 @@ public class Main {
 //        zamowienia.add(new Zamowienie("2",54.5,80));
 //        zamowienia.add(new Zamowienie("3",73.5,15));
 
-        zamowienia.add(new Zamowienie("1", 1.0, 50));
-        zamowienia.add(new Zamowienie("2", 1.0, 45));
-        zamowienia.add(new Zamowienie("3", 1.0, 80));
-        zamowienia.add(new Zamowienie("4", 1.0, 80));
-        zamowienia.add(new Zamowienie("5", 1.0, 80));
-        zamowienia.add(new Zamowienie("6", 1.0, 80));
-        zamowienia.add(new Zamowienie("7", 1.0, 80));
-        zamowienia.add(new Zamowienie("8", 1.0, 80));
-        zamowienia.add(new Zamowienie("9", 1.0, 80));
+//        zamowienia.add(new Zamowienie("1", 1.0, 50));
+//        zamowienia.add(new Zamowienie("2", 1.0, 45));
+//        zamowienia.add(new Zamowienie("3", 1.0, 80));
+//        zamowienia.add(new Zamowienie("4", 1.0, 80));
+//        zamowienia.add(new Zamowienie("5", 1.0, 80));
+//        zamowienia.add(new Zamowienie("6", 1.0, 80));
+//        zamowienia.add(new Zamowienie("7", 1.0, 80));
+//        zamowienia.add(new Zamowienie("8", 1.0, 80));
+//        zamowienia.add(new Zamowienie("9", 1.0, 80));
 
 
         int wszystkieRolki = 0;
