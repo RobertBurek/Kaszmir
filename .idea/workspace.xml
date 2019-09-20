@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cdc6ea88-331b-4e3b-9278-63fb0dee5642" name="Default Changelist" comment="">
+    <list default="true" id="cdc6ea88-331b-4e3b-9278-63fb0dee5642" name="Default Changelist" comment="Kaszmir v0.0 Rozpisywanie ilości rolek w słupkach o max wysokości">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kaszmir.xlsm" beforeDir="false" afterPath="$PROJECT_DIR$/Kaszmir.xlsm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Main.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -129,7 +130,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1568928626950" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1568966565910" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -273,7 +274,14 @@
       <option name="project" value="LOCAL" />
       <updated>1568926813822</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Kaszmir v0.0 Rozpisywanie ilości rolek w słupkach o max wysokości">
+      <created>1568932755800</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1568932755800</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -343,7 +351,8 @@
     </ignored-roots>
     <MESSAGE value="Kaszmir v0.0 Początek&#10;&#10;   Planowanie produkcji, rozkład dla przewozu i maszyn produkujących" />
     <MESSAGE value="Kaszmir v0.0 CD..&#10;&#10;   Planowanie produkcji, rozkład dla przewozu i maszyn produkujących" />
-    <option name="LAST_COMMIT_MESSAGE" value="Kaszmir v0.0 CD..&#10;&#10;   Planowanie produkcji, rozkład dla przewozu i maszyn produkujących" />
+    <MESSAGE value="Kaszmir v0.0 Rozpisywanie ilości rolek w słupkach o max wysokości" />
+    <option name="LAST_COMMIT_MESSAGE" value="Kaszmir v0.0 Rozpisywanie ilości rolek w słupkach o max wysokości" />
   </component>
   <component name="editorHistoryManager">
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/util/Comparators.java">
