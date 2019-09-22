@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cdc6ea88-331b-4e3b-9278-63fb0dee5642" name="Default Changelist" comment="Kaszmir v0.0 Rozpisywanie ilości rolek w słupkach o max wysokości">
+    <list default="true" id="cdc6ea88-331b-4e3b-9278-63fb0dee5642" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Kaszmir.xlsm" beforeDir="false" afterPath="$PROJECT_DIR$/Kaszmir.xlsm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Main.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -24,7 +23,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
+            <state relative-caret-position="27">
               <caret line="23" column="40" selection-start-line="23" selection-start-column="40" selection-end-line="23" selection-end-column="40" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -103,10 +102,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-10" />
-    <option name="y" value="-10" />
-    <option name="width" value="1939" />
-    <option name="height" value="1049" />
+    <option name="x" value="1912" />
+    <option name="y" value="-254" />
+    <option name="width" value="1616" />
+    <option name="height" value="876" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -130,7 +129,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1568966565910" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1569173194302" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -281,13 +280,20 @@
       <option name="project" value="LOCAL" />
       <updated>1568932755800</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Kaszmir v0.0 Rozpisywanie ilości rolek w słupkach o max wysokości cd..">
+      <created>1569012110409</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1569012110409</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="1912" y="-254" width="1616" height="876" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16979866" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16270097" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -303,7 +309,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.3286119" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="9" visible="true" weight="0.3286119" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="9" visible="true" weight="0.31224763" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.3286119" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -352,7 +358,8 @@
     <MESSAGE value="Kaszmir v0.0 Początek&#10;&#10;   Planowanie produkcji, rozkład dla przewozu i maszyn produkujących" />
     <MESSAGE value="Kaszmir v0.0 CD..&#10;&#10;   Planowanie produkcji, rozkład dla przewozu i maszyn produkujących" />
     <MESSAGE value="Kaszmir v0.0 Rozpisywanie ilości rolek w słupkach o max wysokości" />
-    <option name="LAST_COMMIT_MESSAGE" value="Kaszmir v0.0 Rozpisywanie ilości rolek w słupkach o max wysokości" />
+    <MESSAGE value="Kaszmir v0.0 Rozpisywanie ilości rolek w słupkach o max wysokości cd.." />
+    <option name="LAST_COMMIT_MESSAGE" value="Kaszmir v0.0 Rozpisywanie ilości rolek w słupkach o max wysokości cd.." />
   </component>
   <component name="editorHistoryManager">
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/util/Comparators.java">
@@ -403,7 +410,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
+        <state relative-caret-position="27">
           <caret line="23" column="40" selection-start-line="23" selection-start-column="40" selection-end-line="23" selection-end-column="40" />
           <folding>
             <element signature="imports" expanded="true" />
