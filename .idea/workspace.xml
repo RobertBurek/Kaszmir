@@ -129,7 +129,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1569259584032" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1569274756270" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -294,7 +294,14 @@
       <option name="project" value="LOCAL" />
       <updated>1569180274659</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Kaszmir 1.0v dla klienta - poprawnie ogranicza ilość słupków&#10;&#10;   do rozwiązania przypadek mniejszego zamówienia niż możliwości&#10;   ttansportowe.">
+      <created>1569265618010</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1569265618010</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -367,7 +374,8 @@
     <MESSAGE value="Kaszmir v0.0 Rozpisywanie ilości rolek w słupkach o max wysokości" />
     <MESSAGE value="Kaszmir v0.0 Rozpisywanie ilości rolek w słupkach o max wysokości cd.." />
     <MESSAGE value="Kaszmir v0.0 Regulacja &quot;wyznacz&quot; ilosci wierszy do wyliczania" />
-    <option name="LAST_COMMIT_MESSAGE" value="Kaszmir v0.0 Regulacja &quot;wyznacz&quot; ilosci wierszy do wyliczania" />
+    <MESSAGE value="Kaszmir 1.0v dla klienta - poprawnie ogranicza ilość słupków&#10;&#10;   do rozwiązania przypadek mniejszego zamówienia niż możliwości&#10;   ttansportowe." />
+    <option name="LAST_COMMIT_MESSAGE" value="Kaszmir 1.0v dla klienta - poprawnie ogranicza ilość słupków&#10;&#10;   do rozwiązania przypadek mniejszego zamówienia niż możliwości&#10;   ttansportowe." />
   </component>
   <component name="editorHistoryManager">
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/util/Comparators.java">
