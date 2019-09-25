@@ -23,8 +23,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="27">
-              <caret line="23" column="40" selection-start-line="23" selection-start-column="40" selection-end-line="23" selection-end-column="40" />
+            <state relative-caret-position="-594">
+              <caret line="75" selection-start-line="75" selection-end-line="75" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#325#337#0" expanded="true" />
@@ -129,7 +129,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1569274756270" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1569408055892" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -301,7 +301,14 @@
       <option name="project" value="LOCAL" />
       <updated>1569265618010</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Kaszmir 1.1v dla klienta - poprawnie ogranicza ilość słupków oraz&#10;sugeruje rozkład brakujących słupków">
+      <created>1569281335925</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1569281335925</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -316,14 +323,14 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.42351276" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2718708" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.3286119" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="9" visible="true" weight="0.31224763" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="9" visible="true" weight="0.31090176" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.3286119" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -375,7 +382,8 @@
     <MESSAGE value="Kaszmir v0.0 Rozpisywanie ilości rolek w słupkach o max wysokości cd.." />
     <MESSAGE value="Kaszmir v0.0 Regulacja &quot;wyznacz&quot; ilosci wierszy do wyliczania" />
     <MESSAGE value="Kaszmir 1.0v dla klienta - poprawnie ogranicza ilość słupków&#10;&#10;   do rozwiązania przypadek mniejszego zamówienia niż możliwości&#10;   ttansportowe." />
-    <option name="LAST_COMMIT_MESSAGE" value="Kaszmir 1.0v dla klienta - poprawnie ogranicza ilość słupków&#10;&#10;   do rozwiązania przypadek mniejszego zamówienia niż możliwości&#10;   ttansportowe." />
+    <MESSAGE value="Kaszmir 1.1v dla klienta - poprawnie ogranicza ilość słupków oraz&#10;sugeruje rozkład brakujących słupków" />
+    <option name="LAST_COMMIT_MESSAGE" value="Kaszmir 1.1v dla klienta - poprawnie ogranicza ilość słupków oraz&#10;sugeruje rozkład brakujących słupków" />
   </component>
   <component name="editorHistoryManager">
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/util/Comparators.java">
@@ -426,8 +434,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="23" column="40" selection-start-line="23" selection-start-column="40" selection-end-line="23" selection-end-column="40" />
+        <state relative-caret-position="-594">
+          <caret line="75" selection-start-line="75" selection-end-line="75" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#325#337#0" expanded="true" />
