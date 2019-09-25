@@ -129,7 +129,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1569408055892" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1569408155858" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -308,7 +308,14 @@
       <option name="project" value="LOCAL" />
       <updated>1569281335925</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Kaszmir 1.1v dla klienta &#10;&#10;   do testowania oraz przedstawienia uwag, sugestji co do interfejsu">
+      <created>1569408145354</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1569408145354</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -383,7 +390,8 @@
     <MESSAGE value="Kaszmir v0.0 Regulacja &quot;wyznacz&quot; ilosci wierszy do wyliczania" />
     <MESSAGE value="Kaszmir 1.0v dla klienta - poprawnie ogranicza ilość słupków&#10;&#10;   do rozwiązania przypadek mniejszego zamówienia niż możliwości&#10;   ttansportowe." />
     <MESSAGE value="Kaszmir 1.1v dla klienta - poprawnie ogranicza ilość słupków oraz&#10;sugeruje rozkład brakujących słupków" />
-    <option name="LAST_COMMIT_MESSAGE" value="Kaszmir 1.1v dla klienta - poprawnie ogranicza ilość słupków oraz&#10;sugeruje rozkład brakujących słupków" />
+    <MESSAGE value="Kaszmir 1.1v dla klienta &#10;&#10;   do testowania oraz przedstawienia uwag, sugestji co do interfejsu" />
+    <option name="LAST_COMMIT_MESSAGE" value="Kaszmir 1.1v dla klienta &#10;&#10;   do testowania oraz przedstawienia uwag, sugestji co do interfejsu" />
   </component>
   <component name="editorHistoryManager">
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/util/Comparators.java">
