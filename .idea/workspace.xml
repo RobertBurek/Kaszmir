@@ -129,7 +129,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1569791617644" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1569851321084" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -329,7 +329,14 @@
       <option name="project" value="LOCAL" />
       <updated>1569791413481</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Kaszmir 1.1v-1.4v poprawnik zasugerowane przez klienta cd..&#10;&#10;   szerokość rolki 150, arkusz wydruk, arkusz zapis,">
+      <created>1569800066602</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1569800066602</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -407,7 +414,8 @@
     <MESSAGE value="Kaszmir 1.1v dla klienta &#10;&#10;   do testowania oraz przedstawienia uwag, sugestji co do interfejsu" />
     <MESSAGE value="Kaszmir 1.1v dla klienta drobne poprawki&#10;&#10;   do testowania oraz przedstawienia uwag, sugestji co do interfejsu" />
     <MESSAGE value="Kaszmir 1.1v-1.4v poprawnik zasugerowane przez klienta&#10;&#10;   szerokość rolki 150, arkusz wydruk, arkusz zapis," />
-    <option name="LAST_COMMIT_MESSAGE" value="Kaszmir 1.1v-1.4v poprawnik zasugerowane przez klienta&#10;&#10;   szerokość rolki 150, arkusz wydruk, arkusz zapis," />
+    <MESSAGE value="Kaszmir 1.1v-1.4v poprawnik zasugerowane przez klienta cd..&#10;&#10;   szerokość rolki 150, arkusz wydruk, arkusz zapis," />
+    <option name="LAST_COMMIT_MESSAGE" value="Kaszmir 1.1v-1.4v poprawnik zasugerowane przez klienta cd..&#10;&#10;   szerokość rolki 150, arkusz wydruk, arkusz zapis," />
   </component>
   <component name="editorHistoryManager">
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/util/Comparators.java">
