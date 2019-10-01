@@ -129,7 +129,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1569851321084" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1569936135702" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -336,13 +336,20 @@
       <option name="project" value="LOCAL" />
       <updated>1569800066602</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Kaszmir 1.1v-1.4v dodałem opcje wydruku">
+      <created>1569884712253</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1569884712253</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16979866" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16979866" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -358,7 +365,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.3286119" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="9" visible="true" weight="0.32719547" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="9" visible="true" weight="0.32719547" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.3286119" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -415,7 +422,8 @@
     <MESSAGE value="Kaszmir 1.1v dla klienta drobne poprawki&#10;&#10;   do testowania oraz przedstawienia uwag, sugestji co do interfejsu" />
     <MESSAGE value="Kaszmir 1.1v-1.4v poprawnik zasugerowane przez klienta&#10;&#10;   szerokość rolki 150, arkusz wydruk, arkusz zapis," />
     <MESSAGE value="Kaszmir 1.1v-1.4v poprawnik zasugerowane przez klienta cd..&#10;&#10;   szerokość rolki 150, arkusz wydruk, arkusz zapis," />
-    <option name="LAST_COMMIT_MESSAGE" value="Kaszmir 1.1v-1.4v poprawnik zasugerowane przez klienta cd..&#10;&#10;   szerokość rolki 150, arkusz wydruk, arkusz zapis," />
+    <MESSAGE value="Kaszmir 1.1v-1.4v dodałem opcje wydruku" />
+    <option name="LAST_COMMIT_MESSAGE" value="Kaszmir 1.1v-1.4v dodałem opcje wydruku" />
   </component>
   <component name="editorHistoryManager">
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/util/Comparators.java">
