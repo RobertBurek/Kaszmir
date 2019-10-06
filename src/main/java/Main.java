@@ -2,6 +2,7 @@ import java.util.ArrayList;
 import java.util.Comparator;
 import java.util.List;
 import java.util.stream.Collectors;
+import java.util.stream.Stream;
 
 
 /**
@@ -110,34 +111,34 @@ public class Main {
 //                    .sorted()
 //                    .distinct()
                     .collect(Collectors.toList());
-//            System.out.println("PL: " + posortowanaListaWszystkich);
-//            System.out.println("PLs: " + posortowanaListaWszystkich.size());
-//            for (int i = 0; i < posortowanaListaWszystkich.size() - 1; i++) {
-////                System.out.println(posortowanaListaWszystkich.get(i).getWys()-posortowanaListaWszystkich.get(i+1).getWys());
-////                if (posortowanaListaWszystkich.get(i).getWys()-posortowanaListaWszystkich.get(i+1).getWys()==0.0) {
-//                if (posortowanaListaWszystkich.get(i).hashCode() - posortowanaListaWszystkich.get(i + 1).hashCode() != 0) {
-////                    posortowanaListaWszystkich.remove(i+1);
-//                    czystaLista.addAll(posortowanaListaWszystkich.stream().distinct().collect(Collectors.toList()));
-//            System.out.println(posortowanaListaWszystkich.stream().distinct().collect(Collectors.toList()));
-//            System.out.println(posortowanaListaWszystkich.stream().distinct().collect(Collectors.toList()).size());
-////                    System.out.println(posortowanaListaWszystkich.get(i).getWys()+
-////                            "/"+posortowanaListaWszystkich.get(i+1).getWys());
-//                }
-//            }
-////            posortowanaListaWszystkich.remove(1);
-//            System.out.println(posortowanaListaWszystkich);
-//
-//            System.out.println(posortowanaListaWszystkich.size());
-//            System.out.println(czystaLista);
-//            System.out.println(czystaLista.size());
-//            Stream<Pozycja> sorted = listaWszystkich.stream().sorted((o1, o2) -> (int) (o1.getWys() - o2.getWys()));
+            System.out.println("PL: " + posortowanaListaWszystkich);
+            System.out.println("PLs: " + posortowanaListaWszystkich.size());
+            for (int i = 0; i < posortowanaListaWszystkich.size() - 1; i++) {
+//                System.out.println(posortowanaListaWszystkich.get(i).getWys()-posortowanaListaWszystkich.get(i+1).getWys());
+//                if (posortowanaListaWszystkich.get(i).getWys()-posortowanaListaWszystkich.get(i+1).getWys()==0.0) {
+                if (posortowanaListaWszystkich.get(i).hashCode() - posortowanaListaWszystkich.get(i + 1).hashCode() != 0) {
+//                    posortowanaListaWszystkich.remove(i+1);
+                    czystaLista.addAll(posortowanaListaWszystkich.stream().distinct().collect(Collectors.toList()));
+            System.out.println(posortowanaListaWszystkich.stream().distinct().collect(Collectors.toList()));
+            System.out.println(posortowanaListaWszystkich.stream().distinct().collect(Collectors.toList()).size());
+//                    System.out.println(posortowanaListaWszystkich.get(i).getWys()+
+//                            "/"+posortowanaListaWszystkich.get(i+1).getWys());
+                }
+            }
+//            posortowanaListaWszystkich.remove(1);
+            System.out.println(posortowanaListaWszystkich);
 
-//            System.out.println(listaWszystkich);
+            System.out.println(posortowanaListaWszystkich.size());
+            System.out.println(czystaLista);
+            System.out.println(czystaLista.size());
+            Stream<Pozycja> sorted = listaWszystkich.stream().sorted((o1, o2) -> (int) (o1.getWys() - o2.getWys()));
 
-//            dlugosc = listaWszystkich.size();
-//            wynik.clear();
-//            wynik.addAll(listaWszystkich);
-//            listaWszystkich.clear();
+            System.out.println(listaWszystkich);
+
+            dlugosc = listaWszystkich.size();
+            wynik.clear();
+            wynik.addAll(listaWszystkich);
+            listaWszystkich.clear();
 
 
             dlugosc = posortowanaListaWszystkich.size();
@@ -171,19 +172,19 @@ public class Main {
             if ((pozycja.getWys() > 1) && (pozycja.getWys() < 999999)) {
                 IleCzego(zamowienia, pozycja);
                 System.out.print(pozycja);
-//                IleCzego(zamowienia, pozycja);
-//                System.out.print("   rozkład " + pozycja.ileCzego);
-//                System.out.print("   rolki " + pozycja.przydzialRolek);
-//                Integer maxSlupkow = pozycja.przydzialRolek.stream().filter(s -> s > 0).min(new Comparator<Integer>() {
-//                    @Override
-//                    public int compare(Integer o1, Integer o2) {
-//                        return o1 - o2;
-//                    }
-//                }).orElse(0);
-//                System.out.print("   max.słupków " + maxSlupkow);
+                IleCzego(zamowienia, pozycja);
+                System.out.print("   rozkład " + pozycja.ileCzego);
+                System.out.print("   rolki " + pozycja.przydzialRolek);
+                Integer maxSlupkow = pozycja.przydzialRolek.stream().filter(s -> s > 0).min(new Comparator<Integer>() {
+                    @Override
+                    public int compare(Integer o1, Integer o2) {
+                        return o1 - o2;
+                    }
+                }).orElse(0);
+                System.out.print("   max.słupków " + maxSlupkow);
 
-//                int sumaRozkladu = getSumaRozkladu(pozycja, maxSlupkow);
-//                System.out.println("    Pozostało: " + (wszystkieRolki - sumaRozkladu)+"/"+wszystkieRolki);
+                int sumaRozkladu = getSumaRozkladu(pozycja, maxSlupkow);
+                System.out.println("    Pozostało: " + (wszystkieRolki - sumaRozkladu)+"/"+wszystkieRolki);
             }
         }
         System.out.println(koniec.size());
